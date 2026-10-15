@@ -107,7 +107,7 @@ Tick the boxes as you finish. Expand each course for notes and code links.
 | | |
 |:--|:--|
 | **Status** | ⬜ Not started |
-| **Date completed** | — |
+| **Date completed** | 15-October-2026 |
 | **Code** | [`/01-openai-api`](./01-openai-api) |
 
 **Key takeaways**
