@@ -83,16 +83,17 @@ Tick the boxes as you finish. Expand each course for notes and code links.
 
 - [ ] **1. Working with the OpenAI API**
 - [ ] **2. Prompt Engineering with the OpenAI API**
+- [ ] **Guided Project 1**
 - [ ] **3. Working with Hugging Face**
 - [ ] **4. LLMOps Concepts**
 - [ ] **5. Introduction to Embeddings with the OpenAI API**
 - [ ] **6. Vector Databases with Pinecone**
+- [ ] **Guided Project 2**
 - [ ] **7. Software Engineering Principles in Python**
 - [ ] **8. Developing LLM Applications with LangChain**
 - [ ] **9. Working with the OpenAI Responses API**
 - [ ] **10. Introduction to Model Context Protocol (MCP)**
-- [ ] **Guided Project 1**
-- [ ] **Guided Project 2**
+
 
 <br/>
 
