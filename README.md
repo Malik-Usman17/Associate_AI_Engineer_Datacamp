@@ -81,7 +81,7 @@ flowchart LR
 
 Tick the boxes as you finish. Expand each course for notes and code links.
 
-- [✅] **1. Working with the OpenAI API**
+- [x] **1. Working with the OpenAI API**
 - [ ] **2. Prompt Engineering with the OpenAI API**
 - [ ] **Guided Project 1**
 - [ ] **3. Working with Hugging Face**
@@ -106,9 +106,9 @@ Tick the boxes as you finish. Expand each course for notes and code links.
 
 | | |
 |:--|:--|
-| **Status** | ⬜ Not started |
+| **Status** | ✅ Completed |
 | **Date completed** | 15-October-2026 |
-| **Code** | [`/01-openai-api`](./01-openai-api) |
+| **Code** | [`/Working_With_OpenAI_API.ipynb`](./Working%20with%20the%20OpenAI%20API/Working_With_OpenAI_API.ipynb) |
 
 **Key takeaways**
 - _Add what you learned_
@@ -137,9 +137,9 @@ print(response.choices[0].message.content)
 
 | | |
 |:--|:--|
-| **Status** | ⬜ Not started |
+| **Status** | 🔄 In Progress |
 | **Date completed** | — |
-| **Code** | [`/02-prompt-engineering`](./02-prompt-engineering) |
+| **Code** | [`Prompt_Engineering_With_OpenAI API.ipynb`](./Prompt%20Engineering%20with%20OpenAI%20API/Prompt_Engineering_With_OpenAI%20API.ipynb) |
 
 **Key takeaways**
 - _Add what you learned_
