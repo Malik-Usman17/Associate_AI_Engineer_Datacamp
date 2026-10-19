@@ -139,7 +139,7 @@ print(response.choices[0].message.content)
 |:--|:--|
 | **Status** | 🔄 In Progress |
 | **Date completed** | — |
-| **Code** | [`Prompt_Engineering_With_OpenAI API.ipynb`](./Prompt%20Engineering%20with%20OpenAI%20API/Prompt_Engineering_With_OpenAI%20API.ipynb) |
+| **Code** | [`Prompt_Engineering_With_OpenAI API.ipynb`](./Prompt%20Engineering%20with%20OpenAI%20API/Prompt_Engineering_With_OpenAI_API.ipynb) |
 
 **Key takeaways**
 - _Add what you learned_
