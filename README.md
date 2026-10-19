@@ -364,8 +364,11 @@ print(len(emb.data[0].embedding))
 
 ```text
 .
-├── 01-openai-api/
-├── 02-prompt-engineering/
+├── Prompt Engineering with OpenAI API/
+│   └── Prompt_Engineering_With_OpenAI API.ipynb
+├── Working with the OpenAP API/
+│   ├── Slides/
+│   └── Working_With_OpenAI API.ipynb
 ├── 03-hugging-face/
 ├── 04-llmops/
 ├── 05-embeddings/
@@ -378,7 +381,10 @@ print(len(emb.data[0].embedding))
 │   ├── project-1/
 │   ├── project-2/
 │   └── capstone/
+├── .env
+├── .gitignore
 └── README.md
+
 ```
 
 ---
