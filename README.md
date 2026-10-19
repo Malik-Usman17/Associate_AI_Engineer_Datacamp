@@ -32,7 +32,7 @@ Notes, code, and projects for every course in the track.
 ![Progress](https://img.shields.io/badge/Progress-1%2F10%20courses-blue?style=flat-square&logo=target)
 
 ```text
-[░░░░░░░░░░░░░░░░░░░░]   0%   (1 / 10 courses)
+[░░░░░░░░░░░░░░░░░░░░]   10%   (1 / 10 courses)
 ```
 
 > **How to update:** change `0%2F10` in the badge URL to `N%2F10`, then fill the text bar (each `█` = 5%).
