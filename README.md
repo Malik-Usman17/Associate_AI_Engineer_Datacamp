@@ -29,7 +29,7 @@ Notes, code, and projects for every course in the track.
 
 <!-- UPDATE: change the numbers in the badge URL and the bar below after each course -->
 
-![Progress](https://img.shields.io/badge/Progress-0%2F10%20courses-blue?style=flat-square&logo=target)
+![Progress](https://img.shields.io/badge/Progress-1%2F10%20courses-blue?style=flat-square&logo=target)
 
 ```text
 [░░░░░░░░░░░░░░░░░░░░]   0%   (0 / 10 courses)
