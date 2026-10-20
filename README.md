@@ -365,10 +365,10 @@ print(len(emb.data[0].embedding))
 ```text
 .
 ├── Prompt Engineering with OpenAI API/
-│   └── Prompt_Engineering_With_OpenAI API.ipynb
+│   └── Prompt_Engineering_With_OpenAI_API.ipynb
 ├── Working with the OpenAP API/
 │   ├── Slides/
-│   └── Working_With_OpenAI API.ipynb
+│   └── Working_With_OpenAI_API.ipynb
 ├── 03-hugging-face/
 ├── 04-llmops/
 ├── 05-embeddings/
